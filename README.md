@@ -1,7 +1,7 @@
 # eight_sql_foundation_project
 hands-on SQL project built around a custom database (eight_sql) featuring tables like employee, branch, client, and more. This project demonstrates key SQL operations including table creation, data insertion, joins, string functions (CONCAT, TRIM), and aggregation (GROUP BY). Ideal for showcasing foundational SQL skills for data analyst roles.
  
-## 🌟 Eight_SQL Project — My Hands-On SQL Journey
+## 🌟 Eight_SQL Project 🌟— My Hands-On SQL Journey
 
 Hi! I’m Amrutha, worked 1 year at Cadtrains and done data analyst cource in becent technologies. This project is part of that journey—a hands-on exploration of SQL where I created and worked with a custom database called `eight_sql`.
 
@@ -21,7 +21,7 @@ I designed a relational database with multiple tables like `employee`, `branch`,
 - How to write **subqueries** and explore more advanced logic
 
 
-''' 🗂️ What’s Inside
+''' 🗃️ What’s Inside
 
 Here’s how I’ve organized the project:
 
